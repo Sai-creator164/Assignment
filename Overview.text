@@ -1,0 +1,6 @@
+"The Travel Planner" is a console-based application developed in C++ 
+that utilizes Dijkstra’s algorithm to calculate the shortest path 
+between cities. It simulates a basic navigation system by accepting 
+city names and route distances, storing them in an adjacency matrix,
+ and allowing the user to select a source city to calculate the
+ shortest distance to all other cities.
