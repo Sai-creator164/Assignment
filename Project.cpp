@@ -9,6 +9,7 @@ Concepts Used
 - Arrays
 - 2D matrices (Adjacency matrix)
 - Dijkstra’s algorithm (Greedy approach)
+- Graphs
 - Basic I/O operations
 How to Use
 1. Run the program.
