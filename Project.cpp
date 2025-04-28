@@ -124,7 +124,7 @@ int main() {
             graph[a][b] = d;
             graph[b][a] = d;
         } else {
-            cout << "Bad input. Try again.\n";
+            cout << "Bad input or Invalid input. Try again!.\n";
             i--;
         }
     }
