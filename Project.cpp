@@ -12,7 +12,7 @@ Concepts Used
 - Graphs
 - Basic I/O operations
 How to Use
-1. Run the program.
+1. Run the program or Execute the program
 2. Enter number of cities and their names.
 3. Enter route details (indices of cities and distance).
 4. Choose a city to find the shortest distances from it.
