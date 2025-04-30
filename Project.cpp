@@ -33,7 +33,7 @@ To Mumbai : 1550 km
 
 ## Limitations
 - Maximum of 10 cities
-- Only supports undirected routes
+- Only supports undirected routes or one directional routes
 - Doesn't support real-time map integration
 */
 #include <iostream>
