@@ -143,7 +143,7 @@ int main() {
         if (start >= 0 && start < n) {
             shortestPath(start);
         } else {
-            cout << "Invalid index.\n";
+            cout << "Invalid index or Not valid index \n";
         }
     }
 
