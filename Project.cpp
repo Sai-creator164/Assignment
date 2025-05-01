@@ -91,7 +91,7 @@ void shortestPath(int src) {
 }
 
 int main() {
-    cout << "Total cities  are (up to " << MAX << "): ";
+    cout << "Total cities  (up to " << MAX << "): ";
     cin >> n;
 
     if (n < 1 || n > MAX) {
