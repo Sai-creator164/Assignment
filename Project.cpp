@@ -32,7 +32,7 @@ To Chennai : 850 km
 To Mumbai : 1550 km
 
 ## Limitations
-- Maximum of 10 cities
+- Maximum of 10 cities that is fixed.
 - Only supports undirected routes or one directional routes
 - Doesn't support real-time map integration
 */
